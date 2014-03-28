@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APPLICANT email="hari@gmail.com">
+    <regnNo>12345</regnNo>
+    <NAME>Hariom Shukla</NAME>
+    <FATHER-NAME>Pramod Jackson</FATHER-NAME>
+    <PERMANENT-ADDRESS>
+        <HOUSE-STREET-NO>15D</HOUSE-STREET-NO>
+        <VILLAGE-TOWN>Pitampura</VILLAGE-TOWN>
+        <DISTRICT>Delhi</DISTRICT>
+        <STATE>New Delhi</STATE>
+        <PIN-NO>110022</PIN-NO>
+    </PERMANENT-ADDRESS>
+    <CORRESPODENCE-ADDRESS>
+        <HOUSE-STREET-NO>15D</HOUSE-STREET-NO>
+        <VILLAGE-TOWN>Pitampura</VILLAGE-TOWN>
+        <DISTRICT>Delhi</DISTRICT>
+        <STATE>New Delhi</STATE>
+        <PIN-NO>110022</PIN-NO>
+    </CORRESPODENCE-ADDRESS>
+    <CHOICE-ONE>Ahemadabad</CHOICE-ONE>
+    <CHOICE-TWO>Thoice</CHOICE-TWO>
+    <CHOICE-THREE>New Delhi</CHOICE-THREE>
+</APPLICANT>

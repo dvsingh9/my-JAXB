@@ -1,0 +1,27 @@
+<applicants>
+	<row>
+		<regn-no>12345</regn-no>
+		<name>Pradeep Singhal</name>
+		<father-name>Shiv Singhal</father-name>
+		<email>pradeep@gmail.com</email>
+		<permanent-address>
+			<house-street-no>9D</house-street-no>
+			<village-town>Peetampura</village-town>
+			<district>Delhi</district>
+			<state>New Delhi</state>
+			<pin-no>110088</pin-no>
+		</permanent-address>
+		<communication-address>
+			<house-street-no>9D</house-street-no>
+			<village-town>Peetampura</village-town>
+			<district>Delhi</district>
+			<state>New Delhi</state>
+			<pin-no>110088</pin-no>
+		</communication-address>
+		<center-choice>
+			<choice-one>Bhopal</choice-one>
+			<choice-two>Bangalore</choice-two>
+			<choice-three>New Delhi</choice-three>
+		</center-choice>
+	</row>
+</applicants>
