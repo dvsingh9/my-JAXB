@@ -19,8 +19,8 @@ public class Address {
 	private String state;
 	@XmlElement(name="PIN-NO")
 	private String pin;
-	
-	
+	private String country;
+	     
 	public String getHouseStreetNo() {
 		return houseStreetNo;
 	}
@@ -50,6 +50,12 @@ public class Address {
 	}
 	public void setPin(String pin) {
 		this.pin = pin;
+	}
+	public String getCountry() {
+		return country;
+	}
+	public void setCountry(String country) {
+		this.country = country;
 	}
 	
 	
