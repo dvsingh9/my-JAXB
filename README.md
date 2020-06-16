@@ -1,4 +1,2 @@
-AmityForum
+My JAX-B
 ==========
-
-Forum for Amity University, Noida
